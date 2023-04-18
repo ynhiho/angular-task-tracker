@@ -1,1 +1,1 @@
-# angualr-task-tracker
+# angular-task-tracker
